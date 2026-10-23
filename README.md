@@ -1,4 +1,4 @@
 ## Autor
 Imię: Filip
-Nazwisko: Szymanski
+Klasa: 4i
 Partner (login): sliwinov
